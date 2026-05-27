@@ -1,0 +1,262 @@
+{
+  "_priority_guide": {
+    "1": "Tech and AI \u00e2\u20ac\u201d notified first",
+    "2": "Podcasts and Growth \u00e2\u20ac\u201d notified second",
+    "3": "Research and Learning \u00e2\u20ac\u201d notified third",
+    "4": "Health and Wellness \u00e2\u20ac\u201d notified last",
+    "auto_rules": {
+      "Tech and AI": 1,
+      "Podcasts and Growth": 2,
+      "Research and Learning": 3,
+      "Health and Wellness": 4
+    }
+  },
+  "channels": [
+    {
+      "name": "Aishwarya Srinivasan",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCzd4ZN716evEjtbJERBMTfg"
+    },
+    {
+      "name": "Nate Herk AI Automation",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA"
+    },
+    {
+      "name": "TechStoriesOfSrinidhi",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCZCb6EX7WpMTikiti7quDSg"
+    },
+    {
+      "name": "Kunal Kushwaha",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCBGOUQHNNtNGcGzVq5rIXjw"
+    },
+    {
+      "name": "IBM Technology",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ"
+    },
+    {
+      "name": "DeepLearningAI",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w"
+    },
+    {
+      "name": "Andrej Karpathy",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ"
+    },
+    {
+      "name": "Google Cloud Tech",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg"
+    },
+    {
+      "name": "Tech With Tim",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg"
+    },
+    {
+      "name": "NeetCode",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g"
+    },
+    {
+      "name": "Kaggle",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCSNeZleDn9c74yQc-EKnVTA"
+    },
+    {
+      "name": "3Blue1Brown",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw"
+    },
+    {
+      "name": "Alexander Amini",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCtslD4DGH6PKyG_1gFAX7sg"
+    },
+    {
+      "name": "TechWorld with Nana",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCdngmbVKX1Tgre699-XLlUA"
+    },
+    {
+      "name": "Sreemanti Dey",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UC9kqXvkloWw2TwDtmvLWsMQ"
+    },
+    {
+      "name": "Ashish Pratap Singh",
+      "category": "Tech and AI",
+      "priority": 1,
+      "channel_id": "UCUicT5osQLEL11TimsC8I1g"
+    },
+    {
+      "name": "Raj Shamani",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UCzwCEE_PchiBULMnAJqhGVg"
+    },
+    {
+      "name": "Nikhil Kamath",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UCnC8SAZzQiBGYVSKZ_S3y4Q"
+    },
+    {
+      "name": "My First Million",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug"
+    },
+    {
+      "name": "Lenny's Podcast",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA"
+    },
+    {
+      "name": "BeerBiceps",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UCPxMZIFE856tbTfdkdjzTSQ"
+    },
+    {
+      "name": "Josh Talks",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UC5MaEdGrolKRJXFdXgD7RAA"
+    },
+    {
+      "name": "Tharun Speaks",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UCN9qzrsT8gYS2I3tbYVKfcA"
+    },
+    {
+      "name": "Vaibhav Sisinty",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UClXAalunTPaX1YV185DWUeg"
+    },
+    {
+      "name": "EO",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UClWTCPVi-AU9TeCN6FkGARg"
+    },
+    {
+      "name": "ChetChat",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UCjnJwlSN4_FuoE-6RWX_Eaw"
+    },
+    {
+      "name": "Paisa Vaisa",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UCb3s91SgcrCcJstffub2Nbw"
+    },
+    {
+      "name": "Telugu Connects Growth Podcast",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UC4alTWCTl6y_jt2_jgmxPZQ"
+    },
+    {
+      "name": "Raw Talks With VK",
+      "category": "Podcasts and Growth",
+      "priority": 2,
+      "channel_id": "UCEW_Fg9lQ2VaS7DLVma01Cg"
+    },
+    {
+      "name": "Andrew Huberman",
+      "category": "Research and Learning",
+      "priority": 3,
+      "channel_id": "UC2D2CMWXMOVWx7giW1n3LIg"
+    },
+    {
+      "name": "Stanford Online",
+      "category": "Research and Learning",
+      "priority": 3,
+      "channel_id": "UCBa5G_ESCn8Yd4vw5U-gIcg"
+    },
+    {
+      "name": "MIT OpenCourseWare",
+      "category": "Research and Learning",
+      "priority": 3,
+      "channel_id": "UCEBb1b_L6zDS3xTUrIALZOw"
+    },
+    {
+      "name": "MIT Open Learning",
+      "category": "Research and Learning",
+      "priority": 3,
+      "channel_id": "UCEBb1b_L6zDS3xTUrIALZOw"
+    },
+    {
+      "name": "StatQuest with Josh Starmer",
+      "category": "Research and Learning",
+      "priority": 3,
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw"
+    },
+    {
+      "name": "Y Combinator",
+      "category": "Research and Learning",
+      "priority": 3,
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg"
+    },
+    {
+      "name": "Branch Education",
+      "category": "Research and Learning",
+      "priority": 3,
+      "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ"
+    },
+    {
+      "name": "Food Pharmer",
+      "category": "Health and Wellness",
+      "priority": 4,
+      "channel_id": "UCXmAKxh_qFL5703W9VPgpnA"
+    },
+    {
+      "name": "Dr Pal",
+      "category": "Health and Wellness",
+      "priority": 4,
+      "channel_id": "UCP4k407eomZThGHo_9sgMkg"
+    },
+    {
+      "name": "Dr Sid Warrier",
+      "category": "Health and Wellness",
+      "priority": 4,
+      "channel_id": "UCR_Tzu1r5M9uoNB3CF4Zg3g"
+    },
+    {
+      "name": "Wim Hof",
+      "category": "Health and Wellness",
+      "priority": 4,
+      "channel_id": "UCxHTM1FYxeC4F7xDsBVltGg"
+    },
+    {
+      "name": "Institute of Human Anatomy",
+      "category": "Health and Wellness",
+      "priority": 4,
+      "channel_id": "UCgBg0aacyJnw4qUnb1FlfEQ"
+    }
+  ]
+}
