@@ -11,8 +11,12 @@ A personal AI YouTube agent that summarizes videos with one hotkey press.
 - Runs 100% locally — no subscription, zero cost
 
 ## Tech Stack
-Python · Groq API (Llama 3.3 70B) · YouTube Data API v3
-tkinter · plyer · youtube-transcript-api · ddgs · keyboard
+· Python 
+· Groq API (Llama 3.3 70B) 
+· YouTube Data API v3 tkinter 
+· plyer 
+· youtube-transcript-api 
+· ddgs  
 
 ## Setup
 1. Install Python 3.11 from python.org — tick Add to PATH
