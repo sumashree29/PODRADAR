@@ -1,0 +1,7 @@
+config.py
+data/seen_videos.json
+data/snoozed.json
+output/
+__pycache__/
+*.pyc
+.vscode/
