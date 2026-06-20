@@ -41,17 +41,17 @@ Sumashree Dornala — B.Tech Data Science, GRIET Hyderabad
 PodRadar in action:
 
 <p align="center">
-  <img src="https://github.com/sumashree29/PODRADAR/blob/main/assets/screenshots/shot1.png?raw=true" alt="PodRadar - blank input" width="700" />
+  <img src="PodRadar/PodRadar/Screenshot 2026-05-24 124052.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/sumashree29/PODRADAR/blob/main/assets/screenshots/shot2.png?raw=true" alt="PodRadar - typed query" width="700" />
+  <img src="PodRadar/PodRadar/Screenshot 2026-05-24 124639.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/sumashree29/PODRADAR/blob/main/assets/screenshots/shot3.png?raw=true" alt="PodRadar - generated output page (top)" width="1000" />
+  <img src="PodRadar/PodRadar/Screenshot 2026-05-24 125039.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/sumashree29/PODRADAR/blob/main/assets/screenshots/shot4.png?raw=true" alt="PodRadar - generated output page (bottom sections)" width="1000" />
+  <img src="PodRadar/PodRadar/Screenshot 2026-05-24 125100.png" />
 </p>
