@@ -38,20 +38,20 @@ Sumashree Dornala — B.Tech Data Science, GRIET Hyderabad
 
 ## Screenshots
 
-A few screenshots showing PodRadar in action (images referenced from assets/screenshots/). If you want I can add the actual image files into the repo too — right now the README only references them.
+PodRadar in action:
 
 <p align="center">
-  <img src="assets/screenshots/shot1.png" alt="PodRadar - blank input" width="700" />
+  <img src="https://github.com/sumashree29/PODRADAR/blob/main/assets/screenshots/shot1.png?raw=true" alt="PodRadar - blank input" width="700" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/shot2.png" alt="PodRadar - typed query" width="700" />
+  <img src="https://github.com/sumashree29/PODRADAR/blob/main/assets/screenshots/shot2.png?raw=true" alt="PodRadar - typed query" width="700" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/shot3.png" alt="PodRadar - generated output page (top)" width="1000" />
+  <img src="https://github.com/sumashree29/PODRADAR/blob/main/assets/screenshots/shot3.png?raw=true" alt="PodRadar - generated output page (top)" width="1000" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/shot4.png" alt="PodRadar - generated output page (bottom sections)" width="1000" />
+  <img src="https://github.com/sumashree29/PODRADAR/blob/main/assets/screenshots/shot4.png?raw=true" alt="PodRadar - generated output page (bottom sections)" width="1000" />
 </p>
